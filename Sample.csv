@@ -1,0 +1,8 @@
+﻿Building Name,Electricity ,Water,Steam,Type of Usage,Building Age,Square Footage,Seasonality,
+Gore Hall,1000,500,200,Teaching,1920,2000,Regular,
+Smith Hall,1500,1000,300,Teaching,1930,3000,Regular,
+Morris Lib,2000,2000,400,Resource,1940,1500,Regular,
+Independent Hall,500,800,500,Dorm,1950,2050,Regular,
+James Smith Hall,300,600,600,Dorm,1960,3200,Regular,
+Sharp Lab,800,1000,700,Lab,1980,1000,All Year,
+Thomas McKean Hall,1200,800,600,Dorm,2016,2300,Regular ,
